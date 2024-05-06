@@ -1,6 +1,6 @@
 # 4.Execution_of_NetworkCommands
-Reg no:212223230141
-Name:Navinkumar v
+# Reg no:212223230141
+# Name:Navinkumar v
 ## AIM 
 Use of Network commands in Real Time environment
 ## Software
